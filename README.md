@@ -1,4 +1,4 @@
-# Python-In-Neuroscience2
+# Python-In-Neuroscience
 
 Welcome.
 
